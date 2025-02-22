@@ -25,7 +25,6 @@ This project analyzes the relationship between sleep health and lifestyle factor
 ## Technologies Used
 - **Python** (Pandas, Matplotlib, Seaborn) for data cleaning and analysis
 - **SQL** (PostgreSQL) for data storage and querying
-- **Tableau** for data visualization
 
 ## Project Workflow
 1. **Data Cleaning & Preprocessing:**
@@ -36,8 +35,6 @@ This project analyzes the relationship between sleep health and lifestyle factor
 3. **Exploratory Data Analysis (EDA):**
    - Identified trends in sleep health based on lifestyle factors
    - Generated visualizations for key findings
-4. **Data Visualization:**
-   - Created interactive dashboards in Tableau to communicate insights
 
 ## Key Insights
 - Sleep duration significantly correlates with mental health status.
@@ -75,5 +72,6 @@ jupyter notebook
 - Open the Tableau dashboard to explore interactive visualizations based on the processed data.
 
 ## Contributors
-- [Your Name]
+- J. Naum
+- ChatGPT (assisted with error correction and improvements)
 
